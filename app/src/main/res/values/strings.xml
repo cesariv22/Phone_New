@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Phone_New</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Phone New</string>
+    <string name="second_fragment_label">Descripción</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Atrás</string>
+
+    //Text Card
+    <string name="tv_name_phone">Name Phone</string>
+    <string name="description_image">Image cell phone</string>
+    <string name="tv_last_price">Last Price</string>
+    <string name="tv_price">Price</string>
+    <string name="tv_credit">Credit</string>
+    <string name="tv_description">Description Phone</string>
+    <string name="btn_send_email">Enviar Correo</string>
+    <string name="tv_before">Antes</string>
+    <string name="tv_now">Ahora</string>
+    <string name="true_credit">Acepta Crédito</string>
+    <string name="false_credit">No Acepta Crédito</string>
+
+</resources>
